@@ -6,7 +6,7 @@ This repository contains experimental content provided as-is. Support applies on
 
 # Running Tests
 
-This project contains multiple test suites across different driver implementations. Before running any tests, you'll need to set up common credentials and build the required components!
+This project contains multiple test suites across different driver implementations. Before running any tests, you'll need to set up common credentials and build the required components!!
 
 ## Prerequisites
 
